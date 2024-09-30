@@ -13,7 +13,7 @@ I'm a **Data Engineering Student** passionate about sharing my journey in tech a
 - Data Analytics  
 - DevOps  
 - Web Development  
-- Data Science
+- Data Science  
 
 # My Tech Stack and Skills
 
