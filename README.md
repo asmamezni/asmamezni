@@ -4,24 +4,14 @@
 
 Passionnée par le **DevOps**, la **qualité logicielle (QA)** et le **développement web**, je m'investis pleinement dans chaque projet pour proposer des solutions **fiables, performantes et adaptées aux besoins**.  
 
----
-
-## 🔧 Compétences Techniques
-
-**Langages :** Java, Python, C#, JavaScript, HTML/CSS, SQL, .NET  
-**DevOps / CI-CD :** Docker, Jenkins, GitLab CI/CD, Ansible, Nexus, Trivy, SonarQube, Linux (Shell)  
-**Data / BI :** Power BI, Pandas, NumPy, Jupyter, Scikit-learn, SQL Server  
-**Tests / QA :** Robot Framework, OWASP ZAP  
-**Gestion de projet :** Git, GitHub, GitLab, Jira, Scrum, Kanban  
-
----
-
 ## 💻 Projets récents
 
 - **Business Intelligence Solution (Stage Sagemcom)** : Création d’un entrepôt de données et analyses prédictives (ARIMA, SARIMA, XGBoost) avec Power BI.  
-- **Pipeline CI/CD et tests automatisés (Stage Numeryx)** : Intégration de tests unitaires, analyse statique, sécurité Docker, déploiement automatisé.  
+- **Pipeline CI/CD et tests automatisés (Stage Numeryx)** : Automatisation complète des tests unitaires, analyse statique, sécurité Docker et déploiement continu.  
+- **Automatisation des tests API (Stage Sofrecom)** : Développement de scripts de tests automatisés pour les API SmartGlDF et intégration dans la chaîne CI/CD avec publication des rapports sur GitLab Pages.  
 - **Analyse de sentiments YouTube** : Projet ML avec LSTM et TensorFlow pour analyser les commentaires des utilisateurs.  
-- **Application bancaire digitale** : Projet full-stack avec gestion complète des comptes et opérations bancaires.  
+- **Application bancaire digitale** : Projet full-stack avec gestion complète des comptes et opérations bancaires.
+
 
 ## 🛠️ Stack Technique
 
