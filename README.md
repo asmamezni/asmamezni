@@ -24,6 +24,19 @@ Passionnée par le **DevOps**, la **qualité logicielle (QA)** et le **développ
 - **Application bancaire digitale** : Projet full-stack avec gestion complète des comptes et opérations bancaires.  
 
 ---
+## 🛠️ Stack Technique et Mes Compétences
+
+**Langages de programmation :** Java, Python, C#, JavaScript, HTML/CSS, SQL, .NET  
+
+**DevOps / Conteneurs :** Docker, Jenkins, GitLab CI/CD, Ansible, Nexus, Trivy, SonarQube, Linux (Shell)  
+
+**BI / Data Science :** Power BI, Jupyter, Pandas, NumPy, Scikit-learn, SQL Server  
+
+**Tests / Qualité :** Robot Framework, OWASP ZAP  
+
+**Bases de données :** SQL Server, PostgreSQL, MySQL  
+
+**Gestion de projet :** Git, GitHub, GitLab, Jira, Scrum, Kanban  
 
 ## 🌐 Contact
 
